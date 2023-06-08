@@ -95,7 +95,6 @@ function Reservation({ reservation, cancelHandler }) {
           </button>
         )}
       </td>
-      ;
     </tr>
   );
 }
